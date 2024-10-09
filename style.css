@@ -11,18 +11,18 @@ body {
 .HEAD {
     /* Better readability with a larger font size */
     text-align: left;
-    font-size: medium;
+    font-size: xx-small;
     margin-bottom: 20px;
 }
 
 .BODY {
     text-align: justify;
-    font-size: small;
+    font-size: xx-small;
     margin-bottom: 20px;
 }
 
 .FOOT {
     text-align: right;
-    font-size: small;
+    font-size: xx-small;
     margin-top: 20px;
 }
