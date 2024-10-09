@@ -8,18 +8,18 @@ body{
     line-height: 50%;
 }
 
-.NULL{
+.HEAD{
     text-align: left;
     font-size: xx-small;
 
 }
 
-.MANIFESTO{
+.BODY{
     text-align: justify;
     font-size: xx-small;
 }
 
-.END{
+.FOOT{
     text-align: right;
     font-size: xx-small;
 }
