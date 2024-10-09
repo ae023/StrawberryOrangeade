@@ -1,28 +1,36 @@
 body {
-    font-family: 'Courier New', Courier, monospace;
-    /* Remove initial padding since it's handled dynamically */
-    text-align: center;
-    /* Smooth padding transitions */
-    transition: padding 0.1s ease-in-out;
-    /* Increase line-height for better readability */
-    line-height: 1.6; 
+    font-family: 'Courier New', Courier, monospace; /* Font family */
+    text-align: center; /* Center align text in body */
+    line-height: 1.6; /* Increase line-height for better readability */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove initial padding */
+    background-color: #f9f9f9; /* Optional: Light background color for contrast */
 }
 
 .HEAD {
-    /* Better readability with a larger font size */
-    text-align: left;
-    font-size: xx-small;
-    margin-bottom: 20px;
+    text-align: left; /* Align header text to the left */
+    font-size: small; /* Change font size for better readability */
+    margin-bottom: 20px; /* Space below the header */
+    color: #333; /* Optional: Darker text color */
 }
 
 .BODY {
-    text-align: justify;
-    font-size: xx-small;
-    margin-bottom: 20px;
+    text-align: justify; /* Justify the body text */
+    font-size: small; /* Change font size for better readability */
+    margin-bottom: 20px; /* Space below the body content */
+    color: #555; /* Optional: Slightly lighter text color */
 }
 
 .FOOT {
-    text-align: right;
-    font-size: xx-small;
-    margin-top: 20px;
+    text-align: right; /* Align footer text to the right */
+    font-size: small; /* Change font size for better readability */
+    margin-top: 20px; /* Space above the footer */
+    color: #333; /* Optional: Darker text color */
+}
+
+hr {
+    border: 0; /* Remove default border */
+    border-top: 1px solid #ccc; /* Light gray color for the horizontal line */
+    width: 80%; /* Set the width of the horizontal line */
+    margin: 20px auto; /* Center the line with margin */
 }
