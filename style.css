@@ -11,7 +11,7 @@ body {
 .HEAD {
     /* Better readability with a larger font size */
     text-align: left;
-    font-size: small;
+    font-size: medium;
     margin-bottom: 20px;
 }
 
