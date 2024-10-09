@@ -9,21 +9,21 @@ body {
 
 .HEAD {
     text-align: left; /* Align header text to the left */
-    font-size: small; /* Change font size for better readability */
+    font-size: xx-small; /* Change font size for better readability */
     margin-bottom: 20px; /* Space below the header */
     color: #333; /* Optional: Darker text color */
 }
 
 .BODY {
     text-align: justify; /* Justify the body text */
-    font-size: small; /* Change font size for better readability */
+    font-size: xx-small; /* Change font size for better readability */
     margin-bottom: 20px; /* Space below the body content */
     color: #555; /* Optional: Slightly lighter text color */
 }
 
 .FOOT {
     text-align: right; /* Align footer text to the right */
-    font-size: small; /* Change font size for better readability */
+    font-size: xx-small; /* Change font size for better readability */
     margin-top: 20px; /* Space above the footer */
     color: #333; /* Optional: Darker text color */
 }
